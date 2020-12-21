@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-size: 23px;
+    font-family: 'Lobster', cursive;
+    text-align: center
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
